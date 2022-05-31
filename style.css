@@ -1,0 +1,90 @@
+.bg {
+    background-color: #f8f8f8;
+}
+
+.menu-nav {
+    background-color:darkturquoise;
+    height: 60px;
+}
+
+.menu-li {
+    display: inline-block;
+    padding: 13px;
+    color: white;
+    font-size: 25px;
+    position: relative;
+    top: 2px;
+}
+
+.menu-ul {
+  list-style: none;
+  margin: 0; 
+  padding-left: 0; 
+}
+.menu-link {
+    text-decoration: none;
+}
+
+.content {
+    height: 680px;
+    margin-bottom: 210px;
+}
+
+.image-preview {
+    width: 200px;
+    padding-left: 23px;
+    padding-top:10px;
+}
+
+.image-mid {
+    width: 400px;
+}
+
+.product {
+    width: 250px;
+    background: cornsilk;
+}
+
+.short-desc {
+    font-weight: 400;
+    font-size: 14px;
+    background: #eaeaea;
+    color: #707070;
+    font-style: italic;
+    line-height: 16px;
+}
+
+.full-desc {
+    font-weight: 400;
+    font-size: 16px;
+    color: #484343;
+    background: #eaeaea;
+    line-height: 24px;
+    text-align: left;
+}
+
+.features-text {
+    font-weight: 400;
+    font-size: 18px;
+    background: #eaeaea;
+}
+
+.features {
+    font-weight: 400;
+    font-size: 15px;
+    color: #023f72;
+    background: #fbfbfb;
+    line-height: 20px;
+    list-style-image: url("images/bike-logo.png");
+    
+}
+
+.footer {
+    background-color: darkturquoise;
+    padding-left: 10px;
+    position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 80px;
+}
